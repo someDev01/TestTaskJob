@@ -10,7 +10,7 @@ public class GetPlatformsFromReadingLocationsController(
     IWriteFileService writeFileService,
     IPlatformService platformService): ControllerBase
 {
-    private const string FILEPATH = @"C:\\Users\\Lenovo\\Desktop\\platforms.txt";
+    private const string FILEPATH = @"...";
     private static readonly Dictionary<string, List<string>> locationToPlatforms = new();
     
     [HttpPost("read/file")]
@@ -34,3 +34,4 @@ public class GetPlatformsFromReadingLocationsController(
         return Ok(new {message = result.Message, platforms = result.Data});
     }
 }
+

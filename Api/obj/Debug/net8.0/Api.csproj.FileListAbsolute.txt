@@ -34,3 +34,4 @@ C:\Users\Lenovo\RiderProjects\TestTaskJob\Api\bin\Debug\net8.0\Microsoft.Extensi
 C:\Users\Lenovo\RiderProjects\TestTaskJob\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Lenovo\RiderProjects\TestTaskJob\Api\bin\Debug\net8.0\Application.dll
 C:\Users\Lenovo\RiderProjects\TestTaskJob\Api\bin\Debug\net8.0\Application.pdb
+C:\Users\Lenovo\RiderProjects\TestTaskJob\Api\obj\Debug\net8.0\Api.sourcelink.json
